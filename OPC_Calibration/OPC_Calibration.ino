@@ -38,6 +38,8 @@ void loop() {
     Counter = millis();
     data = Plan.logUpdate();
     Serial.println(data);
+    openlog();
     file.println(data);
+    closelog();
     } 
 }
