@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2020-01-16T19:29:57Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.5.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 0.22,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "PlantowerSPS"
+        },
+        "Owner": "Asif Ally <allyx004@umn.edu>",
+        "Size": {
+            "X": 64.75,
+            "Y": 40.31
+        }
+    }
+}
