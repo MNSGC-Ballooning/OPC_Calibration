@@ -3,7 +3,7 @@
 #include <Arduino.h>
 
 //Constants//
-#define LOG_RATE 1000 //This can be changed to adjust the rate at which the OPCs log
+#define LOG_RATE 5000 //This can be changed to adjust the rate at which the OPCs log
 
 //Timer
 unsigned long Counter = 0;
